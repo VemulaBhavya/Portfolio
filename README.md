@@ -25,6 +25,7 @@ This is my personal portfolio website — designed to be interactive, responsive
 Here are the main technologies and libraries used in this project:
 
 | Component | Tool / Library | Purpose |
+
 | Frontend  | HTML, CSS, JavaScript | Core building blocks |
 | Styling / Animations | (e.g. CSS transitions, keyframes, or libraries you used) | For visual polish |
 | Responsiveness | Media queries / flexbox / grid | Ensures cross-device compatibility |
@@ -33,7 +34,7 @@ Here are the main technologies and libraries used in this project:
 
 ## 📷 Demo
 
-live Demo Link:
+live Demo Link: https://vemulabhavya.github.io/Portfolio/
 
 ## 🚀 Getting Started
 
